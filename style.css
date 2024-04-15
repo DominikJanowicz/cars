@@ -1,0 +1,36 @@
+.a {
+
+display: flex;
+flex-direction: column;
+background-color : aqua;
+height : 500px;
+justify-content : center;
+align-items : center;
+}
+.b{
+
+   
+    flex-direction: column;
+    background-color : rgb(223, 231, 231);
+    height : 500px;
+    justify-content : center;
+    align-items : center;
+    }
+    .c {
+
+       
+        flex-direction: column;
+        background-color : aqua;
+        height : 500px;
+        justify-content : center;
+        align-items : center;
+        }
+        .d {
+
+            display: flex;
+            flex-direction: column;
+            background-color : rgb(204, 230, 230);
+            height : 500px;
+            justify-content : center;
+            align-items : center;
+            }
